@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/gustavoleyria/expenses-chart-component-main.git
-- Live Site URL: https://gustavoleyria.github.io/product-preview-card-component-main/
+- Live Site URL: https://gustavoleyria.github.io/expenses-chart-component-main/
 
 ## My process
 
